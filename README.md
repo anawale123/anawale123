@@ -1,55 +1,74 @@
-# 👨‍💻 About Me
+<div align="center">
 
-Cloud Dev who's set on the journey of learning how distributed systems operate on the cloud and navigating through the cloud ecosystem, by developing hands-on projects, engaging with communities, and continuous learning to find the best solutions for real infrastructure problems.
+<sub>Based in the UK &nbsp;·&nbsp; Cloud Infrastructure</sub>
 
-Currently focusing on translating AWS managed container orchestration (ECS Fargate) into EKS, exploring the tradeoffs between Kubernetes and AWS ECS Fargate, enabling me to take further gradual steps into the Kubernetes ecosystem.
+# Cloud Dev on a journey through distributed systems
 
-Alongside that, learning the cloud native programming language Go to extend and contribute to the journey.
+Building hands-on projects across AWS, Kubernetes, and Go —<br>navigating the cloud-native ecosystem one deployment at a time.
 
----
+![AWS ECS → EKS](https://img.shields.io/badge/AWS%20ECS%20→%20EKS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Kubernetes Explorer](https://img.shields.io/badge/Kubernetes%20Explorer-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Learning Go](https://img.shields.io/badge/Learning%20Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-# 🚀 Projects
-
-### ☁️ Deployed Distributed System onto AWS ECS Fargate
-Three independently running services deployed onto AWS.
-
-### ⚙️ Multi-Service Deployment — EKS *(in progress)*
-Production-ready EKS cluster with Helm charts and ArgoCD GitOps.
-
-### 🐳 End-to-End Deployment onto ECS Fargate
-Deploying an open source application onto AWS Fargate.
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+## 🗺️ Current Focus
 
-**☁️ Cloud & IaC:** &nbsp;
+> Translating **AWS ECS Fargate** deployments into **EKS** — exploring the tradeoffs of managed vs self-orchestrated containers. Running production-grade workloads with **Helm + ArgoCD GitOps**, while picking up **Go** to contribute further up the cloud-native stack.
+
+---
+
+## 🚀 Projects
+
+| Status | Project | Description |
+|--------|---------|-------------|
+| ✅ Deployed | **Distributed System on ECS Fargate** | Three independently running services deployed across AWS with full networking and IAM |
+| 🔄 In Progress | **Multi-Service EKS Deployment** | Production-ready cluster with Helm charts, ArgoCD GitOps, and progressive delivery |
+| ✅ Deployed | **End-to-End ECS Fargate App** | Open source application containerised and shipped to AWS Fargate with CI/CD pipeline |
+
+---
+
+## 🛠️ Tech Stack
+
+**☁️ Cloud & Infrastructure**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-
-**🐳 Containerisation:** &nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![ECS Fargate](https://img.shields.io/badge/ECS%20Fargate-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
-**⚡ CI/CD Automation:** &nbsp;
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+**🐳 Containers & CI/CD**
 
-**🖥️ Systems & Tools:** &nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-E96228?style=flat&logo=argo&logoColor=white)
+
+**🖥️ Systems & Languages**
+
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Go](https://img.shields.io/badge/Go_(learning)-00ADD8?style=flat&logo=go&logoColor=white)
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" alt="Top Languages" />
 </p>
+
+---
+
+<div align="center">
+  <sub>Open to collaboration on cloud-native projects &nbsp;·&nbsp; Always learning in public</sub>
+</div>
