@@ -16,7 +16,7 @@ Building hands-on projects across AWS, Kubernetes, and Go —<br>navigating the 
 
 ## 🗺️ Current Focus
 
-> Translating **AWS ECS Fargate** deployments into **EKS** — exploring the tradeoffs of managed vs self-orchestrated containers. Running production-grade workloads with **Helm + ArgoCD GitOps**, while picking up **Go** to contribute further up the cloud-native stack.
+> Translating **AWS ECS Fargate** deployments into **EKS**. Exploring the tradeoffs of managed vs self-orchestrated containers. Running production-grade workloads with **Helm + ArgoCD GitOps**, while picking up **Go** to contribute further up the cloud-native stack.
 
 ---
 
