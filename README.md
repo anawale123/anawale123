@@ -58,7 +58,7 @@ Building hands-on projects across AWS, Kubernetes, and Go —<br>navigating the 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anawale123&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=anawale123&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
