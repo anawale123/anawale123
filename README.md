@@ -53,10 +53,7 @@ Building hands-on projects across AWS, Kubernetes, and Go —<br>navigating the 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Go](https://img.shields.io/badge/Go_(learning)-00ADD8?style=flat&logo=go&logoColor=white)
 
----
 
-
----
 
 <div align="center">
   <sub>Open to collaboration on cloud-native projects &nbsp;·&nbsp; Always learning in public</sub>
