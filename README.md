@@ -58,13 +58,13 @@ Building hands-on projects across AWS, Kubernetes, and Go —<br>navigating the 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=anawale123&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anawale123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anawale123&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
