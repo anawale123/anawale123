@@ -2,7 +2,7 @@
 
 <sub>Based in the UK &nbsp;·&nbsp; Cloud Infrastructure</sub>
 
-# Greetings, From Anas 
+
 
 Building hands-on projects across AWS, Kubernetes, and Go —<br>navigating the cloud-native ecosystem one deployment at a time.
 
