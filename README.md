@@ -25,7 +25,7 @@ Building hands-on projects across AWS, Kubernetes, and Go —<br>navigating the 
 | Status | Project | Description |
 |--------|---------|-------------|
 | ✅ Deployed | **Distributed System on ECS Fargate** | Three independently running services deployed across AWS with full networking and IAM |
-| 🔄 In Progress | **Multi-Service EKS Deployment** | Production-ready cluster with Helm charts, ArgoCD GitOps, and progressive delivery |
+| ✅ Deployed| **Multi-Service EKS Deployment** | Production-ready cluster with Helm charts, ArgoCD GitOps, and progressive delivery |
 | ✅ Deployed | **End-to-End ECS Fargate App** | Open source application containerised and shipped to AWS Fargate with CI/CD pipeline |
 
 ---
