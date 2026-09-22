@@ -1,6 +1,6 @@
 <div align="center">
 
-<sub>Based in the UK &nbsp;·&nbsp; Cloud Infrastructure</sub>
+<sub>Based in the UK &nbsp;·&nbsp; Platform Engineer </sub>
 
 
 
